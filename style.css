@@ -114,7 +114,7 @@ body {
 }
 .hue{
     color: rgb(240, 81, 2);
-    align:center;
+    text-align:top;
     font-weight: bold;
     animation: hue 5s infinite;
 }
